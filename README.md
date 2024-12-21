@@ -10,7 +10,7 @@ GenO not only showcases the versatility and artistic prowess of GameGen-O but al
 
 Through the creation of GenO, we aim to bridge the gap between cutting-edge generative models and popular cultural trends, demonstrating the potential of GameGen-O to produce engaging and relevant content. This initiative not only highlights the practical applications of our model but also underscores our dedication to pushing the boundaries of what generative technology can achieve in both creative and interactive domains.
 
-<img width="512" alt="51b47418ed1caf457a14f6d7152f7c2" src="https://github.com/user-attachments/assets/1953e73f-662f-4a13-8aa8-0d9945b1dceb" />
+![1734744423594](https://github.com/user-attachments/assets/74646538-d30a-44ee-84a4-ba99c86f1e85)
 
 # OGameData
 
